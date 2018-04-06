@@ -1,0 +1,116 @@
+{
+  "homes": [
+    {
+      "id": 1,
+      "name": "Daniele",
+      "city": "Napoli",
+      "phone": "0314 3174179",
+      "image": "https://i.imgur.com/4exx4Kb.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Broli",
+      "city": "Roma",
+      "phone": "0375 0882160",
+      "image": "https://i.imgur.com/kZVvX0H.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Maria",
+      "city": "Milano",
+      "phone": "0355 5682382",
+      "image": "https://i.imgur.com/hITWy3n.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Paride",
+      "city": "Bari",
+      "phone": "0337 4962132",
+      "image": "https://i.imgur.com/mqZ4g4F.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nicola",
+      "city": "Palermo",
+      "phone": "0333 0760475",
+      "image": "https://i.imgur.com/loruxI4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Giovi",
+      "city": "Firenze",
+      "phone": "0344 4109210",
+      "image": "https://i.imgur.com/8Q0mf5I.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Daniele",
+      "city": "Napoli",
+      "phone": "0314 3174179",
+      "image": "https://i.imgur.com/QStDO5u.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Broli",
+      "city": "Roma",
+      "phone": "0375 0882160",
+      "image": "https://i.imgur.com/F1bxAYz.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Maria",
+      "city": "Milano",
+      "phone": "0355 5682382",
+      "image": "https://i.imgur.com/lfMjrlX.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Zac",
+      "city": "Bari",
+      "phone": "0337 4962132",
+      "image": "https://i.imgur.com/Pc3zD9u.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bob",
+      "city": "Palermo",
+      "phone": "0333 0760475",
+      "image": "https://i.imgur.com/SDfcAG3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Giovi",
+      "city": "Firenze",
+      "phone": "0344 4109210",
+      "image": "https://i.imgur.com/3UT60wF.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Tom",
+      "city": "Palermo",
+      "phone": "0333 0760475",
+      "image": "https://i.imgur.com/7HsYMqc.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Jak",
+      "city": "Palermo",
+      "phone": "0333 0760475",
+      "image": "https://i.imgur.com/kxVuE1Y.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Jak",
+      "city": "Palermo",
+      "phone": "0333 0760475",
+      "image": "https://i.imgur.com/DFK9quR.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Leo",
+      "city": "Palermo",
+      "phone": "0333 0760475",
+      "image": "https://i.imgur.com/aaDiCAM.jpg"
+    }
+  ]
+}
